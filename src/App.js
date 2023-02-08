@@ -47,17 +47,17 @@ const channelListDate = [
 const SocialListDate = [
   {
     href: "kevenssouza1@gmail.com",
-    src: "",
+    src: "/assets/email.svg",
     alt: "Keven's E-mail"
   },
   {
     href: "https://www.linkedin.com/in/kevenssouza1/",
-    src: "",
+    src: "/assets/linkedin.svg",
     alt: "Keven's Linkedin"
   },
   {
     href: "https://github.com/kevensouzz",
-    src: "",
+    src: "/assets/github.svg",
     alt: "Keven's Github"
   }
 ]
