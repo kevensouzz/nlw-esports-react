@@ -1,4 +1,4 @@
-##  | NLW-ESPORTS | ReactJS
+## NLW-ESPORTS | ReactJS
 
 <div align="center">
 
