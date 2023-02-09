@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nlw-esports-react/static/css/main.d1bb590a.css",
+    "main.js": "/nlw-esports-react/static/js/main.b2df4f70.js",
+    "index.html": "/nlw-esports-react/index.html",
+    "main.d1bb590a.css.map": "/nlw-esports-react/static/css/main.d1bb590a.css.map",
+    "main.b2df4f70.js.map": "/nlw-esports-react/static/js/main.b2df4f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1bb590a.css",
+    "static/js/main.b2df4f70.js"
+  ]
+}
