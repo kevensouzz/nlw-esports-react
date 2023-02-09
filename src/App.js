@@ -15,32 +15,32 @@ const channelListDate = [
   {
     href: "https://www.twitch.tv/smzinho",
     src: "https://pbs.twimg.com/profile_images/1540557779223674881/qxoAiixM_400x400.jpg",
-    alt: "Canal do Smzinho",
+    alt: "Smzinho",
   },
   {
     href: "https://www.twitch.tv/yayahuz",
     src: "https://static1.personality-database.com/profile_images/37e5b9f1e3204fb2beac5f60d0d00d5d.png",
-    alt: "Canal do Yayah",
+    alt: "Yayah",
   },
   {
     href: "https://www.twitch.tv/casimito",
     src: "https://www.meioemensagem.com.br/wp-content/uploads/2022/11/casimiro-cred-reproducao-150x150.jpg",
-    alt: "Canal do Casimiro",
+    alt: "Casimiro",
   },
   {
     href: "https://www.twitch.tv/BakaGaijinLive",
     src: "https://pbs.twimg.com/media/FYj_cO0X0AImmhM.jpg",
-    alt: "Canal do Baka Gaijin",
+    alt: "Baka Gaijin",
   },
   {
     href: "https://www.twitch.tv/tioorochitwitch",
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SAv_dMeK6ZrkllRNiPiMKpfWcI9ETiczAp3YOythwKMJbQqRh_Ii6GblLjHzMK5bBPU&usqp=CAU",
-    alt: "Canal do Tio Oroche",
+    alt: "Tio Oroche",
   },
   {
     href: "https://www.twitch.tv/Douglassola",
     src: "https://pbs.twimg.com/profile_images/1165024283216744448/rjaXwj1K_400x400.png",
-    alt: "Canal do Dougla Sola",
+    alt: "Douglassola",
   },
 ];
 
