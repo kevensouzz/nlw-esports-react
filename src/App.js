@@ -7,7 +7,7 @@ const gameListData = [
   {
     href: "https://www.twitch.tv/directory/game/CSGO",
     src: "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-144x192.jpg",
-    alt: "Imagem do Counter-Strike Global Offensive",
+    alt: "Counter-Strike Global Offensive",
   },
 ];
 
