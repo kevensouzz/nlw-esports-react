@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nlw-esports-react/static/css/main.d1bb590a.css",
-    "main.js": "/nlw-esports-react/static/js/main.3e662959.js",
+    "main.js": "/nlw-esports-react/static/js/main.c6ded46a.js",
     "index.html": "/nlw-esports-react/index.html",
     "main.d1bb590a.css.map": "/nlw-esports-react/static/css/main.d1bb590a.css.map",
-    "main.3e662959.js.map": "/nlw-esports-react/static/js/main.3e662959.js.map"
+    "main.c6ded46a.js.map": "/nlw-esports-react/static/js/main.c6ded46a.js.map"
   },
   "entrypoints": [
     "static/css/main.d1bb590a.css",
-    "static/js/main.3e662959.js"
+    "static/js/main.c6ded46a.js"
   ]
 }
