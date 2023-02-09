@@ -44,19 +44,6 @@ const channelListDate = [
   },
 ];
 
-const SocialListDate = [
-  {
-    href: "https://www.linkedin.com/in/kevenssouza1/",
-    src: "/assets/linkedin.svg",
-    alt: "Keven's Linkedin"
-  },
-  {
-    href: "https://github.com/kevensouzz",
-    src: "/assets/github.svg",
-    alt: "Keven's Github"
-  }
-]
-
 const App = () => {
   return (
     <div className="App">
@@ -86,23 +73,6 @@ const App = () => {
           className="channel-list"
         >
           {channelListDate.map(function (item) {
-            return (
-              <ListItem
-                href={item.href}
-                src={item.src}
-                alt={item.alt}
-                key={item.href}
-              />
-            );
-          })}
-        </Section>
-
-        <Section
-          title="Minhas redes"
-          subtitle="Conencte-se comigo agora mesmo"
-          className="Social-list"
-        >
-          {SocialListDate.map(function (item) {
             return (
               <ListItem
                 href={item.href}
